@@ -1,4 +1,4 @@
-package com.emart.application;
+package com.emart.abstract-services;
 
 import java.util.Properties;
 
